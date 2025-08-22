@@ -2,11 +2,12 @@
 
 I develop games, web applications, and mobile apps.  
 
-- 🎮 **Games**: Unity, C#, Tile & Map editors  
-- 🌐 **Web**: PHP, Laravel, MySQL  
-- 📱 **Mobile Apps**: Flutter (Android/iOS)  
+- 🎮 **Games**: Unity, C#  
+- 🌐 **Web**: PHP, Laravel, Node.js  
+- 📱 **Mobile Apps**: Flutter (Android/iOS), AdMob, Google Play deployment  
+- 🗄️ **Databases**: MySQL, MongoDB
 
----
+------------------------
 
 ## 📫 Contact
 
